@@ -12,5 +12,5 @@ The report structure:
 
 ## Stat2011 
 I used R markdown to perform Monte Carlo Simulations and see the effect of Central Limit Theorem. 
-The exercises allowed me to compare the fit between the theorectical and empirical probability distributions.
+The exercises allowed me to compare the fit between the theorectical and simulated probability distributions.
 
